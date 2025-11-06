@@ -1,0 +1,41 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binaries
+*_test
+
+# Output of `go build`
+*.out
+
+# Dependency directories (e.g., from `go mod vendor`)
+vendor/
+
+# Go module cache
+.go_cache/
+
+# Local configuration files
+.env
+.env.*
+config.local.yaml
+
+# Log files
+*.log
+
+# Editor-specific files
+.vscode/
+.idea/
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# macOS specific files
+.DS_Store
+
+# Temporary files
+*~
+*.bak
+*.tmp
+.ssh
