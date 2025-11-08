@@ -5,7 +5,7 @@ Easily accessible by anyone in the comfort of their own terminal all they have t
 ```bash
 ssh -p 23234 resume.home-network.site
 ```
-
+(Please execuse the weird domain name its a throw away cheap domain that I bought to complete my self hosting needs)
 
 ![ssh_resume](https://github.com/user-attachments/assets/1f5aadcd-4951-4fb4-b3ed-3c77752da8c0)
 
