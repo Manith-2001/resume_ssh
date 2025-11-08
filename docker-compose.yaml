@@ -1,0 +1,7 @@
+services:
+  resume-ssh:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "23234:23234"
