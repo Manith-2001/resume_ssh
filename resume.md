@@ -1,68 +1,65 @@
-Glow
+Software Engineer
 ====
 
-A casual introduction. 你好世界!
+Email Id: manith.vazirani@gmail.com
+Github Username: Manith-2001
 
-## Let’s talk about artichokes
+## Experience
 
-The _artichoke_ is mentioned as a garden plant in the 8th century BC by Homer
-**and** Hesiod. The naturally occurring variant of the artichoke, the cardoon,
-which is native to the Mediterranean area, also has records of use as a food
-among the ancient Greeks and Romans. Pliny the Elder mentioned growing of
-_carduus_ in Carthage and Cordoba.
+Software Engineer
+Saintiant Technologies Pvt. Ltd.
 
-> He holds him with a skinny hand,
-> ‘There was a ship,’ quoth he.
-> ‘Hold off! unhand me, grey-beard loon!’
-> An artichoke, dropt he.
+- Engineered a cross-platform React Native application integrating Bluetooth Low Energy (BLE) communication via native Kotlin
+and Swift modules
 
---Samuel Taylor Coleridge, [The Rime of the Ancient Mariner][rime]
+- Visualized real-time audio signals using React Native Skia, implementing a smooth, continuous waveform rendering system.
 
-[rime]: https://poetryfoundation.org/poems/43997/
+- Maintained and enhanced company and product websites built in Next.js, improving load times and user engagement.
 
-## Other foods worth mentioning
+- Designed and deployed a CI/CD workflow for API development on an on-premise Linux server, streamlining integration and
+release cycles.
 
-1. Carrots
-1. Celery
-1. Tacos
-    * Soft
-    * Hard
-1. Cucumber
+- Developed and deployed REST APIs for user data management, live audio streaming, and AI inference workloads.
 
-## Things to eat today
+- Built a cross-platform desktop tool in Rust (Tauri) to flash firmware onto custom PCB boards via J-Link/DAPLink, automating
+production of embedded devices workflows.
 
-* [x] Carrots
-* [x] Ramen
-* [ ] Currywurst
+- Implemented real-time audio transmission over Bluetooth Low Energy (BLE) in embedded C using I2S interrupts, ensuring
+low-latency data transfer.
 
-### Power levels of the aforementioned foods
+- Enhanced display driver efficiency in the embedded firmware by integrating Run-Length Encoding (RLE) for image storage,
+significantly reducing flash memory usage.
 
-| Name       | Power | Comment          |
-| ---        | ---   | ---              |
-| Carrots    | 9001  | It’s over 9000?! |
-| Ramen      | 9002  | Also over 9000?! |
-| Currywurst | 10000 | What?!           |
+## Projects
 
-## Currying Artichokes
+1. IRC library in typescript                                                                        Manith-2001/irc_ts
 
-Here’s a bit of code in [Haskell](https://haskell.org), because we are fancy.
-Remember that to compile Haskell you’ll need `ghc`.
+- Developed a TypeScript library implementing the Internet Relay Chat (IRC) protocol per IETF specifications.
+- Designed a modular architecture supporting message parsing, event handling, and extensibility for client implementations.
 
-```haskell
-module Main where
+1. Resume over SSH                                                                                  Manith-2001/resume_ssh
 
-import Data.Function ( (&) )
-import Data.List ( intercalculate )
+- This the output of this poject.
+- Created an SSH application using Go’s Wish library to present an interactive TUI resume over an SSH session.
+- Designed a terminal-based user interface (TUI) with Bubble Tea, enabling a clean, dynamic presentation of resume data.
 
-hello :: String -> String
-hello s =
-    "Hello, " ++ s ++ "."
+## Skills
 
-main :: IO ()
-main =
-    map hello [ "artichoke", "alcachofa" ] & intercalculate "\n" & putStrLn
-```
+### Programming Languages:  C/C++, TypeScript/Javascript, Rust, Python, Go, Swift, Kotlin
 
-***
+### Databases               MySQL, sqlite, MongoDB
 
-_Alcachofa_, if you were wondering, is artichoke in Spanish.
+### Frameworks & Tools      React Native, Next.js, Tauri, Node.js, BLE SDKs (Android/iOS), Shell scripting
+
+## Education
+
+Puducherry Technological University                                             B.Tech in Electronics and Communication Engineering
+
+## Hobbies & Interests
+
+- Enthusiastic about self-hosting and server administration.
+
+- Built and maintain a home server for automatic photo backups and personal music streaming.
+
+- Enjoy experimenting with Linux system setup, containerized applications (Docker), and network automation.
+
